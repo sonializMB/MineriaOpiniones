@@ -46,7 +46,7 @@ El flujo general del proyecto fue el siguiente:
 - `vectorizador_tfidf.pkl` → vectorizador TF-IDF
 - `tabla_resumen_ciudades.csv` → resumen por ciudad
 - `tabla_resumen_lugares_filtrada.csv` → resumen por lugar
-- `app.py` → aplicación en Streamlit
+- `App_opiniones_lugares.py` → aplicación en Streamlit
 - notebooks `.ipynb` → desarrollo del análisis y entrenamiento
 
 ## Dashboard
