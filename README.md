@@ -42,12 +42,12 @@ El flujo general del proyecto fue el siguiente:
 
 ## Archivos principales
 
-- `modelo_sentimiento.pkl` → modelo entrenado
-- `vectorizador_tfidf.pkl` → vectorizador TF-IDF
-- `tabla_resumen_ciudades.csv` → resumen por ciudad
-- `tabla_resumen_lugares_filtrada.csv` → resumen por lugar
-- `App_opiniones_lugares.py` → aplicación en Streamlit
-- notebooks `.ipynb` → desarrollo del análisis y entrenamiento
+- `modelo_sentimiento.pkl`:modelo entrenado
+- `vectorizador_tfidf.pkl`: vectorizador TF-IDF
+- `tabla_resumen_ciudades.csv`: resumen por ciudad
+- `tabla_resumen_lugares_filtrada.csv`: resumen por lugar
+- `App_opiniones_lugares.py`: aplicación en Streamlit
+- `PROYECTO_MINERIAOPINIÓN_turismo (1).ipynb`: desarrollo del análisis y entrenamiento
 
 ## Dashboard
 
